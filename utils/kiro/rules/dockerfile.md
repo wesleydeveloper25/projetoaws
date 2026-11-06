@@ -45,7 +45,8 @@
 - **SUGERIR** nome alternativo se já existir (ex: Dockerfile.new, Dockerfile.backup)
 
 ## Comandos de Teste
-```bash
+```
+bash
 # Build da imagem
 docker build -t bia-app .
 
