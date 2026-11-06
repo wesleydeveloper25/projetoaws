@@ -11,7 +11,7 @@
 - **SEMPRE** verificar o package.json do projeto raiz
 - **SEMPRE** verificar o package.json do client (se existir)
 - **IDENTIFICAR** versão do Node.js necessária
-- **IDENTIFICAR** todas as tecnologias envolvidas (React, Vite, etc.)
+- **IDENTIFICAR** todas as tecnologias envolvidas (Angular, Node, etc.)
 - **VERIFICAR** scripts de build e dependências
 - **VERIFICAR** variáveis de ambiente necessárias (ex: VITE_API_URL)
 - **ANALISAR** o Dockerfile original para configurações específicas
